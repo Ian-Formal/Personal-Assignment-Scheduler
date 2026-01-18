@@ -7,6 +7,7 @@ I have always disliked the lack of customisation in schedule tracking apps and n
 ## Modules, Packages and Environment
 To run, please check if you have installed all modules below:
  * tkinter
+ * tkcalendar
 
 Ensure your python version is above or equilvalent to **python 3.7**
 
